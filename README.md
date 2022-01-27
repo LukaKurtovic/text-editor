@@ -1,1 +1,1 @@
-# text-editor u C#
+# jednostavni text-editor u C#
